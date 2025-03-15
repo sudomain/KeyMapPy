@@ -4,7 +4,7 @@ Currently in beta.
 Trigger your [Key Mapper](https://github.com/keymapperorg/KeyMapper) key maps by the list of actions that they perform. Uses key maps that have "Allow other apps to trigger this key map" enabled. 
 
 ## Setup
-1. Clone thus repo into `/data/data/com.termux/files/home/.local/lib/python3.12/site-packages/`
+1. Clone this repo into `/data/data/com.termux/files/home/.local/lib/python3.12/site-packages/`
 2. Set up Key Mapper's `Automatically back up mappings to a specified location`
 3. Change this line of __init__.py to the path to your backup zip file:
 
