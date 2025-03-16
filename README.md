@@ -1,5 +1,5 @@
 # KeyMapPy
-Currently in beta.
+Currently in beta. Please report issues.
 
 Trigger your [Key Mapper](https://github.com/keymapperorg/KeyMapper) key maps by the list of actions that they perform. Uses key maps that have "Allow other apps to trigger this key map" enabled. 
 
